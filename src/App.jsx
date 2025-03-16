@@ -35,7 +35,7 @@ import Home from './components/Home';
 import Details from './components/Details';
 import Create from './components/Create';
 import Contexts from './utils/Contexts';
-import Edit from './components/edit';
+import Edit from './components/Edit';
 
 const App = () => {
   const { search, pathname } = useLocation();
